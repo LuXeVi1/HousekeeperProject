@@ -4,6 +4,19 @@
 The Microbit and HuskyLens Ball Sorting Robot is a robotic system designed to automatically separate two colored balls, red and blue, and place them in designated areas. This project showcases how computer vision and microcontroller technology can be used to automate simple tasks.
 This README documents the midterm project for the CPE101 Engineering Exploration course in King Mongkut’s University of Technology Thonburi [(KMUTT)](https://www.kmutt.ac.th/).
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Education](#education)
+3. [Development team](#development-team)
+4. [Features](#features)
+5. [Hardware Requirements](#hardware-requirements)
+6. [Software Requirements](#software-requirements)
+7. [Installation and Setup](#installation-and-setup)
+8. [3D Flies](#3d-flies)
+9. [Usage](#usage)
+10. [License](#license)
+11. [Conclusion](#conclusion)
+
 ## Education
 - King Mongkut’s University of Technology Thonburi [(KMUTT)](https://www.kmutt.ac.th/)
     - Bachelor of Engineering [(Website)](https://eng.kmutt.ac.th)
@@ -11,24 +24,23 @@ This README documents the midterm project for the CPE101 Engineering Exploration
             - CPE 101 - Engineering Exploration [(Syllabus)](https://drive.google.com/file/d/1q8DzZ1vEUM5RS1FiopvX1kUsBls0Rmtl/view)
                 - Midterm Project
 
+## Development team
+Team name: KFCsecB
+| Full name             | ID            | Email                             | Role      | GitHub User |
+| -                     | -             | -                                 | -         | -           |
+| Arkkhanirut Pandej    | 66070501062   | <arkkhanirut.pand@kmutt.ac.th>    |Leader     |[@LuXeVi1](https://github.com/LuXeVi1)|
+| Adisorn Parama        | 66070501060   | <adisorn.para@kmutt.ac.th>        |Programmer |[@DarkTouiz](https://github.com/DarkTouiZ)|
+| Santipab Tongchan     | 66070501056   | <santipab.tong@kmutt.ac.th>       |Programmer | [@PPPgamerYTCh](https://github.com/PPPgamerYTCh)|
+| Saksit Wetwitayaklang | 66070501070   | <saksit.wetw@kmutt.ac.th>         |Mechanic   |[@Exanperanto605](https://github.com/Exanperanto605)|
+| Jantarat sanglao      | 66070501070   | <jantarat.sang@kmutt.ac.th>       |Mechanic   |[@jantarat32443](https://github.com/jantarat32443)|
+| Kasemsan Khamdang     | 66070501066   | <kasemsan.kham@kmutt.ac.th>       |Mechanic   |[@SherriKK](https://github.com/SherriKK)|
+| Thanin Chantranuwatkul| 66070501075   | <thanin.chan@kmutt.ac.th>         |Mechanic   |[@thanin0707](https://github.com/thanin0707)|
+
 ## Features
 - Color-based ball sorting using HuskyLens
 - Precise ball placement using Microbit and servos
 - 3D printed ball pick-up mechanism
 - Customizable TagID-based ball placement areas
-
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Education](#education)
-3. [Features](#features)
-4. [Hardware Requirements](#hardware-requirements)
-5. [Software Requirements](#software-requirements)
-6. [Installation and Setup](#installation-and-setup)
-7. [3D Flies](#3d-flies)
-8. [Usage](#usage)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Development team](#development-team)
 
 ## Hardware Requirements
 - Microbit
@@ -73,15 +85,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Conclusion
 The Microbit and HuskyLens Ball Sorting Robot is a fun and educational project that demonstrates the potential of combining computer vision and microcontroller technology. We hope it inspires you to create your own robotic solutions. Feel free to reach out if you have any questions or suggestions!
-
-## Development team
-Team name: KFCsecB
-| Full name             | ID            | Email                             | Role      | GitHub User |
-| -                     | -             | -                                 | -         | -           |
-| Arkkhanirut Pandej    | 66070501062   | <arkkhanirut.pand@kmutt.ac.th>    |Leader     |[@LuXeVi1](https://github.com/LuXeVi1)|
-| Adisorn Parama        | 66070501060   | <adisorn.para@kmutt.ac.th>        |Programmer |[@DarkTouiz](https://github.com/DarkTouiZ)|
-| Santipab Tongchan     | 66070501056   | <santipab.tong@kmutt.ac.th>       |Programmer | [@PPPgamerYTCh](https://github.com/PPPgamerYTCh)|
-| Saksit Wetwitayaklang | 66070501070   | <saksit.wetw@kmutt.ac.th>         |Mechanic   |[@Exanperanto605](https://github.com/Exanperanto605)|
-| Jantarat sanglao      | 66070501070   | <jantarat.sang@kmutt.ac.th>       |Mechanic   |[@jantarat32443](https://github.com/jantarat32443)|
-| Kasemsan Khamdang     | 66070501066   | <kasemsan.kham@kmutt.ac.th>       |Mechanic   |[@SherriKK](https://github.com/SherriKK)|
-| Thanin Chantranuwatkul| 66070501075   | <thanin.chan@kmutt.ac.th>         |Mechanic   |[@thanin0707](https://github.com/thanin0707)|
