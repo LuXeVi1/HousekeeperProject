@@ -36,6 +36,7 @@ Team name: KFCsecB
 | Kasemsan Khamdang     | 66070501066   | <kasemsan.kham@kmutt.ac.th>       |Mechanic   |[@SherriKK](https://github.com/SherriKK)|
 | Thanin Chantranuwatkul| 66070501075   | <thanin.chan@kmutt.ac.th>         |Mechanic   |[@thanin0707](https://github.com/thanin0707)|
 
+
 ## Features
 - Color-based ball sorting using HuskyLens
 - Precise ball placement using Microbit and servos
