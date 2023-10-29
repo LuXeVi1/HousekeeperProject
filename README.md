@@ -31,10 +31,13 @@ Team name: KFCsecB
 | Arkkhanirut Pandej    | 66070501062   | <arkkhanirut.pand@kmutt.ac.th>    |Leader     |[@LuXeVi1](https://github.com/LuXeVi1)|
 | Adisorn Parama        | 66070501060   | <adisorn.para@kmutt.ac.th>        |Programmer |[@DarkTouiz](https://github.com/DarkTouiZ)|
 | Santipab Tongchan     | 66070501056   | <santipab.tong@kmutt.ac.th>       |Programmer | [@PPPgamerYTCh](https://github.com/PPPgamerYTCh)|
+| Thammapon Chaengpatee | 66070501076   | <thammapon.chae@kmutt.ac.th>      |Mechanic   |[@KurumizM](https://github.com/KurumizM)|
 | Saksit Wetwitayaklang | 66070501070   | <saksit.wetw@kmutt.ac.th>         |Mechanic   |[@Exanperanto605](https://github.com/Exanperanto605)|
 | Jantarat sanglao      | 66070501070   | <jantarat.sang@kmutt.ac.th>       |Mechanic   |[@jantarat32443](https://github.com/jantarat32443)|
 | Kasemsan Khamdang     | 66070501066   | <kasemsan.kham@kmutt.ac.th>       |Mechanic   |[@SherriKK](https://github.com/SherriKK)|
 | Thanin Chantranuwatkul| 66070501075   | <thanin.chan@kmutt.ac.th>         |Mechanic   |[@thanin0707](https://github.com/thanin0707)|
+|Phornphat  Chanthanarak| 64070503442   | <phornphat.chan@kmutt.ac.th>      |Adviser    |[@markPhornphat](https://github.com/markPhornphat)|
+|Jirawat Puangraya      | 64070503407   | <jirawat.mr@mail.kmutt.ac.th>     |Adviser    |[@Atomicblastz ](https://github.com/Atomicblastz)|
 
 
 ## Features
